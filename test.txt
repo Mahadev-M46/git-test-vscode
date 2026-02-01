@@ -1,1 +1,1 @@
-hello from MAin and i am testing the merge conflict
+hello from maIN and i am testing the merge conflict
